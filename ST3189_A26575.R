@@ -1,11 +1,7 @@
-#University of London
 
-#Academic direction provided by
-#London School of Economics and Political Science
+# London School of Economics and Political Science
 
-#ST 3189: Machine Learning Coursework Project
-
-#Candidate Number: A26575
+# Machine Learning Coursework Project
 
 library(rpart)
 library(rpart.plot)
